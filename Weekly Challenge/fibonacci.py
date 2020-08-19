@@ -1,3 +1,6 @@
+"El reto de esta semana es programar la secuencia de Fibonacci en el lenguaje que prefieran. 
+https://es.wikipedia.org/wiki/Sucesi%C3%B3n_de_Fibonacci"
+
 a0 = 0 #Define el termino a sub cero de la sucesión.
 a1 = 1 #Define el termino a sub uno del a sucesión.
 n= 15 #Define el termino enésimo hasta el cual se quiere proyectar la sucesion. (Cambiar su valor para proyectar la sucesión hasta un termino distinto)
